@@ -1,0 +1,268 @@
+body{
+    overflow-x:hidden;
+  background-color: rgb(248, 240, 226);
+  color: black;
+}
+/*Coupon code start*/
+
+#cpn {
+    width: 80%;
+    border-radius: 15px; 
+    margin: 0 auto; 
+    max-width: 600px;
+    height:500px;
+    background-color:white;
+    margin-left:30%;
+    position:absolute;
+    margin-top:7%;
+    z-index: 100;
+    opacity: 1;
+    position: fixed;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color:orange;
+    border-radius:5px;
+  }
+  
+  .container h2{
+    font-size:20px;
+    margin-top: 10px;
+    color: green;
+    font-weight:bold;
+  }
+  .container span{
+    font-size:30px;
+    font-weight: 100;
+  }
+  .container button{
+    margin-left: 360px;
+    border:1px solid red;
+    background-color: rgb(243, 193, 127);
+    margin-bottom:10px;
+    font-size: 20px;
+    padding-top: 0px;
+    height:40px;
+    text-align: center;
+  }
+  .promo {
+    background: #ccc;
+    padding: 3px;
+  }
+  
+  .expire {
+    color: red;
+  }
+/*Coupon code end*/
+/*Nav bar Start*/
+.navbar1{
+    box-shadow: 1px 1px 9px gray;
+    background-color:white;
+    height:70px;
+    margin-bottom:40px;
+}
+.nav-item a{
+    font-weight:bold;
+}
+.nav-item a:hover{
+    font-weight:bold;
+    font-size:17px;
+}
+#button1{
+    margin-top:20px;
+    float:left;
+    border: none;
+}
+#button1 input{
+    margin-left:30px;
+    width:400px;
+}
+#input{
+    width:80%;
+}
+.btn1{
+    font-weight:bold;
+    float:left;
+}
+.btn5{
+    margin-left:20px;
+    background-color:rgb(192, 164, 107);
+    color:white;
+    float:left;
+    margin-top:20px;
+    height:38px;
+    width:50px;
+}
+.weather{
+    margin-left:30px;
+    color:orange;
+    float:left;
+    margin-top:25px;
+    height:38px;
+    width:40px;
+    font-size:25px;
+    cursor:pointer;
+}
+#temp1{
+    margin-top:40px;
+    width:20px;
+    height:20px;
+    line-height:1px;
+    margin-left:5px;
+    float:left;
+    margin-top:20px;
+    color:orange;
+    font-weight:bold;
+    font-size:15px;
+}
+#temp2{
+    width:20px;
+    height:20px;
+    line-height:2px;
+    float:left;
+    margin-top:45px;
+    margin-left:-20px;
+    text-align:center;
+    font-weight:bold;
+    color:orange;
+    font-size:15px;
+}
+.dark{
+    background-color:black;
+    color:white;
+}
+.right{
+    margin-top:20px;
+}
+.icon{
+    color:gray;
+}
+.ul{
+    height:40px;
+    line-height:3px;
+}
+/*Nav bar End*/
+
+/*Slider Starts*/
+
+.slider{
+    box-shadow: -3px 4px 5px gray;
+}
+/*Deal Of The Day*/
+
+h4{
+    margin:50px;
+    margin-top: 60px;
+}
+.h4{
+    margin:50px;
+    margin-top: 60px;
+}
+.col-lg-2{
+    height: 350px;
+  }
+  .image{
+    border-radius:100px;
+}
+img{
+    box-shadow:1px 1px 5px gray;
+}
+img:hover{
+    transform:scale(1.050);
+}
+.detail{
+    text-align: center;
+    background-color: rgb(253, 244, 244);
+    height:100px;
+    border:1px dotted gray;
+    box-shadow:2px 2px 7px gray;
+}
+.para{
+    font-weight:bold;
+    font-size:18px;
+    color:gray;
+    padding-top:20px;
+    height:35px;
+ }
+ .para2{
+    line-height:2px;
+    font-weight:bold;
+    font-size:18px;
+    color:gray;
+    color:green;
+}
+.p{
+    font-style:italic;
+    font-weight:bold;
+    color:rgb(197, 148, 56);
+}
+/*Deal of the Day End*/
+
+/* Top Picks Start*/
+
+.col-lg-3{
+    height: 350px;
+  }
+/*Top Picks Ends*/
+
+/*Categories to product Start*/
+
+.image1 img{
+    border-radius:300px;
+    height:220px;
+    box-shadow:-15px 10px 10px gray;
+}
+.detail1{
+    text-align: center;
+}
+.para1{
+    padding-top:20px;
+    height:20px;
+    font-weight:bold;
+   font-size:18px;
+   color:gray;
+}
+.row2{
+    margin-top:10px;
+}
+/*Categories to product end*/
+
+/*Categories to brands starts */
+/*Categories to brands ends */
+
+/*Footer start*/
+/*Footer start*/
+footer{
+    background-color:rgb(231, 225, 225);
+}
+.container1 {
+    padding: 2px 16px;
+    background-color:rgb(233, 230, 230);
+    border-radius:5px;
+  }
+.myntrasite{
+    box-shadow:3px 3px 5px gray;
+    height:400px;
+}
+.myntrasite h6{
+    padding-top:40px;
+}
+.myntra{
+    box-shadow:none;
+    height:200px;
+    text-align:left;
+}
+.logo2{
+    margin-left: 40px;
+    float:left;
+    margin-right:10px;
+}
+
+
+
+
+
+
+
+
